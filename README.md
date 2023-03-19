@@ -11,6 +11,7 @@ In this part, we focused on scarping a webpage with some article links, along wi
 ### Part 2
 
 In this part, we focused on scraping a webpage with data from the Mars Curiosity Rover. We used splinter and beautiful soup to extract this data and save it in a dataframe.
+
 Furthermore, we performed analysis on this dataframe and answered the following questions (refer to the notebook for the answers):
 1. How many months exist on Mars?
 2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
